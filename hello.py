@@ -1,1 +1,1 @@
-print("Hello from CI/CD automated deployment!")
+print("Hell from CI/CD automated deployment!")
